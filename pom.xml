@@ -4,7 +4,7 @@
 
     <groupId>io.github.openunirest</groupId>
     <artifactId>object-mappers-gson</artifactId>
-    <version>1.0.01</version>
+    <version>1.0.02-SNAPSHOT</version>
     <name>object-mappers-gson</name>
     <description>Gson based object mapper for Open Unirest</description>
     <url>http://github.com/OpenUnirest/</url>
@@ -21,7 +21,7 @@
         <url>https://github.com/OpenUnirest/object-mappers-gson</url>
         <connection>scm:git:git@github.com:OpenUnirest/object-mappers-gson.git</connection>
         <developerConnection>scm:git:git@github.com:OpenUnirest/object-mappers-gson.git</developerConnection>
-        <tag>v1.0.01</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
