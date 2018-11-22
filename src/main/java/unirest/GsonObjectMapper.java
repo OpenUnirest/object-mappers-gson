@@ -1,8 +1,6 @@
-package io.github.openunirest.mappers;
+package unirest;
 
 import com.google.gson.Gson;
-import io.github.openunirest.http.ObjectMapper;
-import io.github.openunirest.request.GenericType;
 
 public class GsonObjectMapper implements ObjectMapper {
     private Gson om;

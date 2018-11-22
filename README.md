@@ -5,7 +5,7 @@ Welcome. This is a Object Mapper for Open Unirest based on the popular google Gs
 Use it like this:
 
 ```java
-     Options.setObjectMapper(new GsonObjectMapper());
+     Unirest.config().setObjectMapper(new GsonObjectMapper());
 ```
 
 You may also provide it with your own Gson instance.

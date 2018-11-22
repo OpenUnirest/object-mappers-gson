@@ -4,7 +4,7 @@
 
     <groupId>io.github.openunirest</groupId>
     <artifactId>object-mappers-gson</artifactId>
-    <version>1.0.02-SNAPSHOT</version>
+    <version>3.0.00-SNAPSHOT</version>
     <name>object-mappers-gson</name>
     <description>Gson based object mapper for Open Unirest</description>
     <url>http://github.com/OpenUnirest/</url>
@@ -219,8 +219,8 @@
     <dependencies>
         <dependency>
             <groupId>io.github.openunirest</groupId>
-            <artifactId>unirest-java</artifactId>
-            <version>2.4.00</version>
+            <artifactId>open-unirest-java</artifactId>
+            <version>3.0.00</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
